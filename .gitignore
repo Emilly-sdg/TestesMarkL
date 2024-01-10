@@ -1,0 +1,9 @@
+node_modules/
+build/
+/data/
+/cypress/screenshots
+/cypress/downloads
+/cypress/videos
+.env
+package-lock.json
+results/
