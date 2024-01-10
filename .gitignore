@@ -4,6 +4,5 @@ build/
 /cypress/screenshots
 /cypress/downloads
 /cypress/videos
-.env
 package-lock.json
 results/
